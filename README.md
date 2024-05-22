@@ -1,6 +1,6 @@
 Este fragmento de código HTML estructura una página web con tres secciones distintas, cada una con su propio fondo y un enlace estilizado.
 div.background-one: Esta sección probablemente tenga un estilo de fondo específico definido en el CSS.
-Primera Sección (background-one)
+* Primera Sección (background-one)
 div.link-container: Un contenedor para el enlace, que ayuda a centrar o alinear el contenido.
 a.link-one: Un enlace con la clase link-one que podría tener estilos personalizados para resaltar o estilizar el texto "Estilo".
 Segunda Sección (background-two)
